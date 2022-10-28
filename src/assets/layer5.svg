@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1328px" viewBox="0 0 1440 1328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>layer5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.0488871606" width="1440" height="1327.95111"></rect>
+    </defs>
+    <g id="404" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="404-v3" transform="translate(0.000000, -73.000000)">
+            <g id="parallax-bg" transform="translate(0.000000, 73.000000)">
+                <g id="layer5">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-3-Copy-6" fill-opacity="0.00999999978" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <path d="M-3.55317019,984.927386 L5.41027466,965.665962 L12.1705125,982.654125 L19.9325265,963.24909 L35.6772254,995.050229 L44.300907,974.650424 L72.9776257,1056.63845 L88.9464983,999.519692 L108.533674,1043.52779 L112.964607,1019.0123 L124.35193,1029.72359 L153.00413,1050.02883 L158.962246,1040.38936 L181.456675,1062.75419 L186.560129,1052.30209 L196.60241,1066.22187 L201.989584,1063.36016 L222.578536,1087.35375 L235.426491,1072.77195 L255.556587,1092.08591 L262.481453,1107.71152 L266.667196,1098.88468 L277.466063,1108.36653 L280.551954,1101.19997 L297.203856,1119.6873 C297.203856,1119.6873 375.627087,1276.09779 448.393687,1325.0697 C513.221862,1368.69904 709.98818,1397.49104 709.98818,1397.49104 L-35.8657059,1377.25586 L-3.55317019,984.927386 Z" id="Path-6" fill="#66DDD4" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

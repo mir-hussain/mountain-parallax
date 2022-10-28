@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1328px" viewBox="0 0 1440 1328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>layer10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.0488871606" width="1440" height="1327.95111"></rect>
+    </defs>
+    <g id="404" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="404-v3" transform="translate(0.000000, -73.000000)">
+            <g id="parallax-bg" transform="translate(0.000000, 73.000000)">
+                <g id="layer10">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-3" fill-opacity="0.00999999978" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <path d="M787.625833,407.932332 L744.626518,489.657652 L740.833078,512.53738 L735.386358,508.236047 L720.79055,584.55668 L711.024983,608.798963 L686.187239,624.64524 C686.187239,624.64524 662.060546,618.99186 655.678601,613.895411 C649.296656,608.798963 627.355656,600.087713 627.355656,600.087713 L618.886094,608.693881 L615.884268,636.540457 L610.272921,653.339473 L600.678987,679.25255 L580.639961,708.079885 L565.441686,735.397551 L558.247111,753.257889 L525.314595,764.322962 L483.891501,762.505054 L-44.2792246,831.077684 L-43.4946167,1461.75183 L1509.21642,1439.37299 L1489.91296,383.658525 L1552.38203,-73 L1139.58283,211.190162 L787.625833,407.932332 Z" id="Path-10" fill="#CCF4F1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

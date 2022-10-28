@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1328px" viewBox="0 0 1440 1328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>layer9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.0488871606" width="1440" height="1327.95111"></rect>
+    </defs>
+    <g id="404" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="404-v3" transform="translate(0.000000, -73.000000)">
+            <g id="parallax-bg" transform="translate(0.000000, 73.000000)">
+                <g id="layer9">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-3-Copy-2" fill-opacity="0.00999999978" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <polygon id="Path-12" fill="#F2FCFB" mask="url(#mask-2)" points="545.324074 757.876258 549.950669 767.089621 646.713125 774.599769 721.487559 792.056975 748.620611 797.022527 748.576739 806.008381 772.203992 807.013457 776.371865 815.054061 755.317127 823.286109 784.619866 829.934764 1063.46453 889.445609 995.023667 1232.12454 647.686294 1210.74674 299.834418 1066.90925 477.762739 760.502984"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

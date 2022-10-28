@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1328px" viewBox="0 0 1440 1328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>layer2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.0488871606" width="1440" height="1327.95111"></rect>
+    </defs>
+    <g id="404" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="404-v3" transform="translate(0.000000, -73.000000)">
+            <g id="parallax-bg" transform="translate(0.000000, 73.000000)">
+                <g id="layer2">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-3-Copy-9" fill-opacity="0.00999999978" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <polygon id="Path-13" fill="#7FE3DB" mask="url(#mask-2)" points="625.159455 789.164209 619.064733 801.731947 610.462067 810.303088 613.299266 816.993271 624.634048 823.326178 636.112441 824.215867 641.184371 834.156569 653.037555 839.950058 684.540963 839.431656 707.171998 845.067523 703.945998 834.510343 715.553992 832.426229 697.304853 826.755335 692.432578 810.131455 687.241556 814.772551 680.796562 796.975261 674.66331 798.26426 668.911854 788.088876 650.522606 796.393811 641.485604 787.286755 632.893447 784.701752"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
