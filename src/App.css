@@ -25,3 +25,10 @@
 #tree {
   transform: translate(-150px, 60px);
 }
+
+.circle {
+  background: red;
+  height: 5rem;
+  width: 5rem;
+  transform: translate(-100px, 50px);
+}

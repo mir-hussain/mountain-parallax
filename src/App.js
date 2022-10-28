@@ -16,11 +16,16 @@ import leaves from "./assets/leaves.svg";
 
 function App() {
   const [mouse, setMouse] = useState({});
+  console.log(mouse);
 
   useEffect(() => {
-    window.addEventListener("mousemove", (event) => {
+    const mouseEvent = window.addEventListener("mousemove", (event) => {
       setMouse(event);
     });
+
+    return () => {
+      window.removeEventListener(mouseEvent);
+    };
   }, []);
 
   const parallax = (movementAmount = 1) => {
@@ -71,10 +76,10 @@ function App() {
       <div className='image-container' style={parallax(-1)}>
         <img src={layer2} alt='' />
       </div>
-      <div className='image-container' style={parallax(-3)}>
+      <div className='image-container' style={parallax(-4)}>
         <img id='tree' src={layer1} alt='' />
       </div>
-      <div className='image-container ' style={parallax(-3)}>
+      <div className='image-container ' style={parallax(-4)}>
         <img src={leaves} alt='' />
       </div>
     </div>
